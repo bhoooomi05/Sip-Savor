@@ -61,6 +61,7 @@ Offers a form-based interface for customers to submit their reservation details.
 ## 📸 Preview
 
 ![Sip & Savor Website Preview](preview.png)
+<img width="1867" height="891" alt="image" src="https://github.com/user-attachments/assets/556e38b7-795c-4b20-8321-431d3b73e7aa" />
 
 ## 🚀 Getting Started
 
